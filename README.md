@@ -1,2 +1,3 @@
 # dotfiles
-dotfiles
+
+1. vimrc
